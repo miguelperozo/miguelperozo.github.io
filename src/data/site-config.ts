@@ -39,10 +39,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
-    },
+    
 
     website: 'https://example.com',
     title: 'Miguel Perozo',
